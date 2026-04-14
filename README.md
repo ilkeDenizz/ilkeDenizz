@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Computer Engineering Student | Aspiring Developer
 
-I am a 2nd-year **Computer Engineering** student based in Ankara, Turkey. I'm passionate about building software solutions, exploring game development, and constantly expanding my technical toolkit.
+I am a 2nd-year **Computer Engineering** student based in Ankara, Türkiye. I'm passionate about building software solutions, exploring game development, and constantly expanding my technical toolkit.
 
 ---
 
