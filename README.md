@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm İlke! 👋
 
-<!--
-**ilkeDenizz/ilkeDenizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Computer Engineering Student | Aspiring Developer
 
-Here are some ideas to get you started:
+I am a 2nd-year **Computer Engineering** student based in Ankara, Turkey. I'm passionate about building software solutions, exploring game development, and constantly expanding my technical toolkit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Technical Skills
+
+* **Languages:** Java, Python, C#, JavaScript
+* **Game Dev:** Developing interactive experiences using **Unity**. 🎮
+* **Web Dev:** Building projects with HTML/CSS, JS, and **Firebase**, hosted on GitHub Pages & Neocities. 🌐
+* **Hardware:** Interested in Digital System Design and computer architecture.
+
+---
+
+### 🛠️ Featured Projects
+
+* **[CyberSnake](https://github.com/ilke-deniz/cybersnake):** A modern take on the classic Snake game with a sleek UI. 🐍
+* **Personalized Web Apps:** Custom-built web platforms featuring dynamic counters and interactive elements.
+
+---
+
+
+### 💼 Current Focus
+
+* Working with **F1 API** for data-driven projects. 🏁
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilke-deniz&show_icons=true&theme=radical" alt="ilke-deniz GitHub Stats" />
+</p>
+
+---
+
+> *"Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur!"* — **Mustafa Kemal Atatürk** 🇹🇷
