@@ -17,7 +17,7 @@ I am a 2nd-year **Computer Engineering** student based in Ankara, Turkey. I'm pa
 
 ### 🛠️ Featured Projects
 
-* **[CyberSnake](https://github.com/ilke-deniz/cybersnake):** A modern take on the classic Snake game with a sleek UI. 🐍
+* **[CyberSnake](https://ilkedenizz.github.io/cybersnake/):** A modern take on the classic Snake game with a sleek UI. 🐍
 * **Personalized Web Apps:** Custom-built web platforms featuring dynamic counters and interactive elements.
 
 ---
