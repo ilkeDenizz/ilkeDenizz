@@ -29,10 +29,5 @@ I am a 2nd-year **Computer Engineering** student based in Ankara, Turkey. I'm pa
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilke-deniz&show_icons=true&theme=radical" alt="ilke-deniz GitHub Stats" />
-</p>
-
----
 
 > *"Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur!"* — **Mustafa Kemal Atatürk** 🇹🇷
