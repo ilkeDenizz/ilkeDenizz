@@ -19,5 +19,10 @@ I am a 2nd-year **Computer Engineering** student based in Ankara, Türkiye. I'm 
 * 🏁 Currently researching data structures with a goal to work on data-driven hobby projects (like F1 API concepts).
 
 ---
+### 🧠 Brainstorming & Practice
+
+* **[Minesweeper](https://ilkedenizz.github.io/webkael/minesweeper_js/index.html):** 
+
+---
 
 > *"Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur!"* — **Mustafa Kemal Atatürk** 🇹🇷
