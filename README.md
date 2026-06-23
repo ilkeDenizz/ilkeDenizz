@@ -21,7 +21,7 @@ I am a 2nd-year **Computer Engineering** student based in Ankara, Türkiye. I'm 
 ---
 ### 🧠 Brainstorming & Practice
 
-* **[Minesweeper](https://ilkedenizz.github.io/webkael/minesweeper_js/index.html):** 
+* **[Minesweeper](https://ilkedenizz.github.io/webkael/minesweeper_js/index.html)** 
 
 ---
 
