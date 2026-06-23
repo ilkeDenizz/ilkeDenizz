@@ -1,33 +1,26 @@
 # Hi there, I'm İlke! 👋
 
-### 👨‍💻 Computer Engineering Student | Aspiring Developer
+### 👨‍💻 Computer Engineering Student & Aspiring Developer
 
-I am a 2nd-year **Computer Engineering** student based in Ankara, Türkiye. I'm passionate about building software solutions, exploring game development, and constantly expanding my technical toolkit.
-
----
-
-### 🚀 Technical Skills
-
-* **Languages:** Java, Python, C#, JavaScript
-* **Game Dev:** Developing interactive experiences using **Unity**. 🎮
-* **Web Dev:** Building projects with HTML/CSS, JS, and **Firebase**, hosted on GitHub Pages & Neocities. 🌐
-* **Hardware:** Interested in Digital System Design and computer architecture.
+I am a 2nd-year **Computer Engineering** student based in Ankara, Türkiye. I'm a passionate learner focused on core software principles, exploring new technologies, and leveraging modern tools to accelerate my development journey.
 
 ---
 
-### 🛠️ Featured Projects
+### 🚀 Technical Exploration & Learning Focus
 
-* **[CyberSnake](https://ilkedenizz.github.io/cybersnake/):** A modern take on the classic Snake game with a sleek UI. 🐍
-* **Personalized Web Apps:** Custom-built web platforms featuring dynamic counters and interactive elements.
-* **[Minesweeper](https://ilkedenizz.github.io/webkael/minesweeper_js/index.html):** Time to brainstorming.
----
-
-
-### 💼 Current Focus
-
-* Working with **F1 API** for data-driven projects. 🏁
+* **Languages in Focus:** Actively learning core concepts of **Java** and **Python** through my academic coursework.
+* **AI-Assisted Learning:** Enthusiastically utilizing **Generative AI** tools to understand complex programming logic, debug code, and explore project architectures.
+* **Interests:** Highly interested in **Game Development** fundamentals and **Web Development** concepts.
 
 ---
 
+### 💼 Current Journey
+
+* 🎓 Student at **THK University**.
+* 🌟 Former **BİLSEM** student, bringing an analytical and research-driven mindset to engineering problems.
+* 🤝 Active in campus tech communities (**GDG on Campus**).
+* 🏁 Currently researching data structures with a goal to work on data-driven hobby projects (like F1 API concepts).
+
+---
 
 > *"Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur!"* — **Mustafa Kemal Atatürk** 🇹🇷
