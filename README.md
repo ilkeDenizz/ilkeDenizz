@@ -15,9 +15,6 @@ I am a 2nd-year **Computer Engineering** student based in Ankara, Türkiye. I'm 
 ---
 
 ### 💼 Current Journey
-
-* 🎓 Student at **THK University**.
-* 🌟 Former **BİLSEM** student, bringing an analytical and research-driven mindset to engineering problems.
 * 🤝 Active in campus tech communities (**GDG on Campus**).
 * 🏁 Currently researching data structures with a goal to work on data-driven hobby projects (like F1 API concepts).
 
