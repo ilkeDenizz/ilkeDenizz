@@ -16,13 +16,7 @@ I am a 2nd-year **Computer Engineering** student based in Ankara, Türkiye. I'm 
 * **AI-Assisted Learning:** Enthusiastically utilizing **Generative AI** tools to understand complex programming logic, debug code, and explore project architectures.
 * **Interests:** Highly interested in **Game Development** fundamentals and **Web Development** concepts.
 
----
 
-### 💼 Current Journey
-* 🤝 Active in campus tech communities (**GDG on Campus**).
-* 🏁 Currently researching data structures with a goal to work on data-driven hobby projects (like F1 API concepts).
-
----
 ### 🧠 Brainstorming & Practice
 
 * **[Minesweeper](https://ilkedenizz.github.io/webkael/minesweeper_js/index.html)** 
