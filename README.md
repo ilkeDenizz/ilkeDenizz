@@ -1,6 +1,3 @@
-# 👋 Welcome
-
-I enjoy building web projects and experimenting with different technologies.
 
 ## 🚀 Projects
 
