@@ -1,4 +1,4 @@
-👋 Hi, I'm İlke Deniz
+İlke Deniz
 
 Computer Engineering Student & Developer
 Building web, mobile and interactive experiences.
