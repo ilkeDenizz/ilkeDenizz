@@ -1,53 +1,103 @@
-İlke Deniz
+# Hey, I'm İlke Deniz 👋
 
-Computer Engineering Student & Developer
-Building web, mobile and interactive experiences.
+### Computer Engineering Student · Developer · Builder
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+I enjoy turning ideas into **interactive, polished, and useful digital experiences.**
 
-🚀 Featured Projects
+Currently exploring web development, mobile applications, game development, and creative UI/UX.
 
-🏎️ Pacevion
-Interactive F1 racing dashboard
+---
 
-📱 Lixor
-Focus & productivity application
+## 🚀 Featured Projects
 
-🌱 Zyvqen
-Cozy mobile game
+### 🏎️ Pacevion
 
-🎞️ Sprite Sheet Maker
-Browser-based sprite animation tool
+**F1 Racing Data & Visualization Platform**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+A modern Formula 1 experience focused on race data, standings, drivers, teams, and interactive visualizations.
 
-🛠️ Tech Stack
+**React · TypeScript · Vite · CSS**
 
-React • TypeScript • JavaScript
-Flutter • Dart
-Python • FastAPI
-HTML • CSS
-Git • GitHub
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🌱 Eclipsia
 
-🔭 Currently Building
+**Cozy Mobile Game**
 
-Pacevion — F1 data & visualization platform
+A cozy indie game focused on exploration, plants, progression, and a relaxing visual experience.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Flutter · Dart · Flame · Riverpod**
 
-📌 What I Like
+---
 
-• Building polished interfaces
-• Interactive web experiences
-• Creative side projects
-• Learning new technologies
+### 📱 Lixor
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Focus & Productivity App**
 
-🌐 Portfolio
-💼 LinkedIn
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+A productivity application designed around focused work sessions, personalization, and a clean modern interface.
+
+**Flutter · Dart · Firebase**
+
+---
+
+### 🎞️ Sprite Sheet Maker
+
+**Browser-based Sprite Animation Tool**
+
+A tool for creating, previewing, and working with sprite sheet animations directly in the browser.
+
+**React · TypeScript · Canvas API**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`TypeScript` `JavaScript` `Dart` `Python`
+
+**Frontend**
+
+`React` `HTML` `CSS` `Vite`
+
+**Mobile & Game**
+
+`Flutter` `Flame`
+
+**Backend & Tools**
+
+`FastAPI` `Git` `GitHub`
+
+---
+
+## 🔭 Currently Building
+
+**Pacevion**
+
+Building a polished F1-focused platform with interactive data visualization and a modern broadcast-inspired interface.
+
+---
+
+## 💡 What I Enjoy
+
+* 🎨 Creating polished UI/UX
+* ⚡ Building interactive web experiences
+* 📱 Developing mobile applications
+* 🎮 Experimenting with game development
+* 🧩 Turning ideas into real projects
+
+---
+
+## 📊 GitHub
+
+I use GitHub to experiment, build, learn, and document the projects I'm working on.
+
+---
+
+### 🌐 Find Me
+
+**Portfolio** · **LinkedIn** · **GitHub**
+
+---
 
 > *"Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur!"* — **Mustafa Kemal Atatürk** 🇹🇷
