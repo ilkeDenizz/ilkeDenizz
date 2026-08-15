@@ -1,4 +1,4 @@
-# Hey, I'm İlke Deniz 👋
+# Hey, I'm İlke Deniz 
 
 ### Computer Engineering Student · Developer · Builder
 
@@ -20,7 +20,7 @@ A modern Formula 1 experience focused on race data, standings, drivers, teams, a
 
 ---
 
-### 🌱 Eclipsia
+### 🌱 Zyvqen
 
 **Cozy Mobile Game**
 
