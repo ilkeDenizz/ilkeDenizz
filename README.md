@@ -20,7 +20,7 @@ A modern Formula 1 experience focused on race data, standings, drivers, teams, a
 
 ---
 
-### 🌱 Zyvqen
+### 🌱 Eclipsia
 
 **Cozy Mobile Game**
 
